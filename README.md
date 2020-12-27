@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**ImSaravanakrish/imsaravanakrish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ### Hello there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 [![telegram badge](https://img.shields.io/badge/SARAVANAKRISH-30302f?style=flat&logo=telegram)](https://t.me/SARAVANAKRISH)
 
@@ -43,3 +40,6 @@ Let's About Know Me:
 ### Show some ❤️ by starring some of the repositories!
 
 </div>
+
+<!--
+**ImSaravanakrish/imsaravanakrish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
