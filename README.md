@@ -9,7 +9,7 @@
 
 Let's About Know Me:
 
-- 🔭 I’m currently working in NBFS,
+- 🔭 I’m currently working in NBFC,
 - 👯 I’m looking to collaborate on My Projects,
 - 🤔 I’m looking for help with open source,
 - 💬 Ask me about Anything ready to help you,
