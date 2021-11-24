@@ -17,6 +17,9 @@ Let's About Know Me:
 - 😄 Call me *SARAVANA*
 - ⚡ Fun fact: I'M Human...
 
+👻Stats 
+
+[![Metrics](https://github.com/imsaravanakrish/imsaravanakrish/raw/main/github-metrics.svg)](https://github.com/imsaravanakrish)
 
 **Languages and Tools:**  
 
